@@ -4,7 +4,7 @@
 2. Download folder node modules pada google drive
 3. masukan folder node modules ke dalam folder landing page astungkara berhasil ya-admin atau file yang kalian unduh dari repo ini.
 4. sehingga pada folder main sksrg ada 3 folder dan 7 file.
-5. kemudian jalankan pnpm seperti biasanya
+5. kemudian jalankan pnpm seperti biasanya untuk di laptop kalian
 
 kalo masih ga paham untuk node modules bisa install sendiri pake tutor ini https://www.youtube.com/watch?v=RVH_5L5Lsp0
 
