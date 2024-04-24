@@ -1,4 +1,5 @@
-# Langkah Ambil Repoku:(karena belum include node module, gtw gk bisa di upload ke git)
+# Langkah Ambil Repoku:
+# (karena belum include node module, gtw gk bisa di upload ke git)
 
 1. setelah kalian download, buka link google drive di desc atau klik link berikut https://drive.google.com/drive/folders/1bOaBh0LgIpgtU1xHlAmMmZbidqFBihcr?usp=sharing
 2. Download folder node modules pada google drive
